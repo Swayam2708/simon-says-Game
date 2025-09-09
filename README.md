@@ -11,7 +11,7 @@ Built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 📸 Screenshot
-![Game Screenshot](./assets/preview.png)
+![Game Screenshot](./assets/preview.png.png)
 
 ---
 
