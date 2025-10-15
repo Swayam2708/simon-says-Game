@@ -53,7 +53,7 @@ function checkans(idx){
         setTimeout(levelup,1000);
       }
     }else{
-         h2.innerHTML=`Game Over! your score was<b>${level}<b/> <br/> press any key to start`;
+         h2.innerHTML=`Game Over! your score is <b>${level}<b/> <br> press any key to start`;
          document.querySelector("body").style.backgroundColor='red';
          setTimeout(function(){
             document.querySelector("body").style.backgroundColor='white';

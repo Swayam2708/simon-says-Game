@@ -2,11 +2,11 @@ body{
     text-align: center;
 }
 .btn{
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
     border-radius: 20%;
-    border: 10px solid black;
-    margin: 2rem;
+    border: 5px solid black;
+    margin: 0.5rem;
     
 }
 .btn-container{
@@ -14,20 +14,50 @@ body{
     justify-content: center;
 }
 .yellow{
-    background-color:#f99b45;
+   background: #ffeb3b;
+  box-shadow: 0 0 15px #ffeb3b;
+  color: #333;
 }
 .red{
-    background-color: #d95980;
+  background: #ff1744;
+  box-shadow: 0 0 15px #ff1744;
 }
 .purple{
-    background-color: #819ff9;
+  background: #2979ff;
+  box-shadow: 0 0 15px #2979ff;
 }
 .green{
-    background-color:#63aac0;
+ background: #00e676;
+  box-shadow: 0 0 15px #00e676;
 }
 .flash{
     background-color: white;}
     .userflash{
-        background-color: green;
+        background-color: rgb(70, 200, 70);
     }
-   
+    body{
+    background: linear-gradient(120deg, #6a11cb, #2575fc);
+}
+body {
+
+    margin-top: 50px;
+  margin: 0;
+  padding: 0;
+  height: 700px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* White box */
+.styling {
+  background:#1a1a1a;
+  height: 550px;
+  width: 600px;
+  padding: 30px 40px;
+  border-radius: 100px;
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  
+}
