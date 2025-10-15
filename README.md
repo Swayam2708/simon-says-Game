@@ -10,11 +10,6 @@ Built with **HTML, CSS, and JavaScript**.
 
 ---
 
-## 📸 Screenshot
-![Game Screenshot](./assets/preview.png.png)
-
----
-
 ## ✨ Features
 - 🔢 Sequence memory game with levels  
 - 🎨 Flash animations for colors  
